@@ -1,2 +1,8 @@
 # element-json
-Create a json containing the information about the chemical elements based on wikipedia infobox
+Create a json containing the information about the chemical elements based on wikipedia infobox.
+
+We will also retrieve all the information based on
+http://www.nist.gov/pml/data/comp.cfm
+We need to parse the text file obtained from:
+http://physics.nist.gov/cgi-bin/Compositions/stand_alone.pl?ele=&all=all&ascii=ascii2&isotype=all
+
