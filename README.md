@@ -9,3 +9,5 @@ http://physics.nist.gov/cgi-bin/Compositions/stand_alone.pl?ele=&all=all&ascii=a
 And also take care of isotopes
 * http://ie.lbl.gov/decay.html
 * http://ie.lbl.gov/toi/listnuc.asp?sql=
+
+http://en.wikipedia.org/w/api.php?action=query&prop=revisions&rvprop=content&pageids=2152181&format=json
